@@ -1,0 +1,14 @@
+C:\Lucas\VerificacaoDeVeiculoApto\bin\Debug\net9.0\VerificacaoDeVeiculoApto.exe
+C:\Lucas\VerificacaoDeVeiculoApto\bin\Debug\net9.0\VerificacaoDeVeiculoApto.deps.json
+C:\Lucas\VerificacaoDeVeiculoApto\bin\Debug\net9.0\VerificacaoDeVeiculoApto.runtimeconfig.json
+C:\Lucas\VerificacaoDeVeiculoApto\bin\Debug\net9.0\VerificacaoDeVeiculoApto.dll
+C:\Lucas\VerificacaoDeVeiculoApto\bin\Debug\net9.0\VerificacaoDeVeiculoApto.pdb
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.AssemblyInfoInputs.cache
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.AssemblyInfo.cs
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.csproj.CoreCompileInputs.cache
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.dll
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\refint\VerificacaoDeVeiculoApto.dll
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.pdb
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\VerificacaoDeVeiculoApto.genruntimeconfig.cache
+C:\Lucas\VerificacaoDeVeiculoApto\obj\Debug\net9.0\ref\VerificacaoDeVeiculoApto.dll
